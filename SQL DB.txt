@@ -1,0 +1,43 @@
+use to change dbs 
+f5 execute alt+break to stop execution
+ctrl+K+c commenet/ un comment ctrl+K+c
+pause
+
+if exists- checks wether the db exist or not
+
+ create table abc.dbo.prod(pid int,pname varchar(10)) using database and schema
+
+declare is used to declare a variable
+print is sed to print 
+
+truncate only works on table to remove all data with out conditions.
+
+alter is used to do update on table defination where as update is used to update data in table  once a data is inserted in table using insert.
+
+north wind data base sample data for practice
+
+create new table using select 
+
+
+to apply group by we need to use with group functions  
+when your doing group by on what shuold be metioned in select and after from.to apply condition on group by we use having.
+
+ 
+
+
+
+power query-cleans data
+power pivot-create relation btw diff sources of data
+power view-visuvalize data
+power bi service- share reports
+power bi desktop- all apps desktp
+power map -geospatial data in 3d mode.
+power qA -
+pbi architecture
+stacked colum chart 
+pie chat
+
+
+
+
+
